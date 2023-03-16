@@ -1,5 +1,5 @@
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:felx" align="left">
+<div style="display: flex;" align="left">
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/></a>
 
